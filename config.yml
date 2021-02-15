@@ -1,0 +1,4 @@
+# The name of the current backend
+name: 'Official dev-doctor collection'
+# The icon of the backend. Supported values are [png, jpg, svg, null]
+icon: png
