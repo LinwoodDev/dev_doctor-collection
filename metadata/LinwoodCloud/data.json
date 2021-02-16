@@ -1,3 +1,8 @@
-[
-    "dev_doctor"
-]
+{
+    "entries": [
+        "https://backend.dev-doctor.cf"
+    ],
+    "files": [
+        "dev_doctor"
+    ]
+}
