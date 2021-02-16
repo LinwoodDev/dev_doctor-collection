@@ -1,8 +1,5 @@
 {
-    "entries": [
-        "https://backend.dev-doctor.cf"
-    ],
-    "files": [
-        "dev_doctor"
-    ]
+    "entries": {
+        "dev_doctor": "https://backend.dev-doctor.cf"
+    }
 }
