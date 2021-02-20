@@ -1,4 +1,4 @@
-# dev_doctor-backends
+# DevDoctor Collection
 
 > A collection of backends
 
