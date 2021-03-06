@@ -1,2 +1,5 @@
+# Editor related
+.vscode
+
 # Build output
 data.json
